@@ -1,0 +1,96 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.outside {
+  width: 500px;
+  height:600px;
+  border: 15px solid #F5DA1E;
+  border-radius: 15px;
+}
+.grayBox {
+  width:500px;
+  height:600px;
+  background-color: #DBD9D9;
+}
+.basicBox {
+  width:90px;
+  height:30px;
+  background-color:#C3C9C5;
+  border-radius:15px;
+  position: absolute;
+  top:20px;
+  left:25px;
+}
+.snorlaxImage {
+  width: 465px;
+  height: 250px;
+  border: 2px solid #E1ECED;
+  position: absolute;
+  top: 55px;
+  left:30px;
+
+}
+.bioInfo{
+  width:465px;
+  height:25px;
+  background-color: #C3C9C5;
+  border-radius: 15px;
+  position: relative;
+  top: 0px;
+  left:0px;
+}
+.type {
+  position:relative;
+  left:460px;
+  bottom:32px;
+}
+
+.ability {
+ width:90px;
+  height:27px;
+  background-color:#d31d1d;
+  border-radius:15px;
+  position: relative;
+  top: 270px;
+  left: 15px;
+  border: 3px solid #8b8484;
+}
+
+
+
+.footerBox{
+  width:505px;
+  height:20px;
+  background-color: #C3C9C5;
+  position:fixed;
+  bottom: 230px;
+  right:190px;
+  border-radius:10px;
+}
+
+.illustrator{
+  position:relative;
+  top:190px;
+  left:20px;
+  text-align: left;
+  font-size: 10px;
+}
+.rare{position:relative;
+  top:200px;
+  left:30px;
+  text-align: left;
+  font-size: 10px;}
+
+.eating{
+  position:relative;
+  top:180px;
+  text-align: right;
+  font-size: 10px;
+}
+.footer{
+  position: relative;
+  top:195px;
+  text-align: center;
+  font-size: 10px;
+}
