@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  
+</head>
+
+ <body>
+  <div class="outside">
+<div class="grayBox"> 
+  <div style="position:relative; left:105px; top:2px; font-weight:bold; font-size:30px">Snorlax</div> 
+  <div class="type"> <img src="https://external-preview.redd.it/LQm3Hy7YkPzxOqtT_OGdVuSvlR9jCePzgLNX4XjPuiQ.jpg?width=640&crop=smart&auto=webp&s=b1f9257f965de3745740516c97f9452b4b65fe23" alt="Normal Type" style="width:35px; height:35px;"</div>
+  <div class="HP"> <div style="position:absolute; right:510px; top:2px; font-weight:bold; font-size:30px">HP130</div>
+</div>
+</div>
+  <div class="basicBox"> 
+    <div style="position:relative; text-align:center; top:20%;">BASIC</div>
+  </div>
+     <div class="snorlaxImage"> <img src= "https://paintbynumberscanvas.com/wp-content/uploads/2021/12/Snorlax-Pokemon-paint-by-numbers.jpg" style="width: 465px; height:250px;"</div>
+  <div class="bioInfo"> 
+  <div style="position:relative; text-align:center; top:4px;"> No. 143 Sleeping Pokemon HT 6'11" WT 1014.1 lbs</div>
+       </div>
+  </div>
+  
+    <div class="ability"> <div style="position: relative; text-align:center; font-weight:bold; top:20%;">ABILITY</div> </div>
+    <div style="position: relative; top:245px; left:115px; font-size:20px; font-weight:bold; color:red;">Gormandize</div>
+    <p style="position:relative; top:235px; left:15px; font-size:16px;">Once during your turn, if this Pokémon is in the Active Spot, you may draw cards until you have 7 cards in your hand. If you use this Ability, your turn ends.</p1>
+    
+    <div class="abilitytwo"> <div style="position: absolute; text-align: center; font-weight: bold; font-size:20px; top:460px; left:135px;">BODY SLAM</div> 
+      <div class="damage"><div style="position: relative; font-weight:bold; font-size: 20px; text-align:right; right: 10px; top:225px;">100</div>
+        <div class="typestar"><img src="https://external-preview.redd.it/LQm3Hy7YkPzxOqtT_OGdVuSvlR9jCePzgLNX4XjPuiQ.jpg?width=640&crop=smart&auto=webp&s=b1f9257f965de3745740516c97f9452b4b65fe23" alt="Normal Type" style="width:22px; height:22px; position:relative; top:206px; left:95px";> </div>
+        <div class="typestar2"> <img src="https://external-preview.redd.it/LQm3Hy7YkPzxOqtT_OGdVuSvlR9jCePzgLNX4XjPuiQ.jpg?width=640&crop=smart&auto=webp&s=b1f9257f965de3745740516c97f9452b4b65fe23" alt="Normal Type" style="width:22px; height:22px; position:relative; top:181px; left:65px";> </div>
+        <div class="typestar3"><img src="https://external-preview.redd.it/LQm3Hy7YkPzxOqtT_OGdVuSvlR9jCePzgLNX4XjPuiQ.jpg?width=640&crop=smart&auto=webp&s=b1f9257f965de3745740516c97f9452b4b65fe23" alt="Normal Type" style="width:22px; height:22px; position:relative; top:155px; left:35px";> </div>
+        <div class="typestar4"><img src="https://external-preview.redd.it/LQm3Hy7YkPzxOqtT_OGdVuSvlR9jCePzgLNX4XjPuiQ.jpg?width=640&crop=smart&auto=webp&s=b1f9257f965de3745740516c97f9452b4b65fe23" alt="Normal Type" style="width:22px; height:22px; position:relative; top:130px; left:5px";> </div>
+    </div>
+    </div>
+
+    <div class= "descrip"> <div style="position: relative; top: 140px; left: 10px; font-size: 15px;"> Flip a coin. If heads, your opponents Active Pokemon is now paralyzed.</div> </div>
+     <div class="footerBox">
+       <div style="position:fixed; bottom:230px; right:590px; font-size:15px;">weakness x 2</div>
+       <div class="resistance"> <div style="position:fixed; bottom:230px; right:500px; font-size:15px;">resistance</div>
+         <div class="retreat"> <div style="position:fixed; bottom:230px; right:350px; font-size:15px;">retreat</div>
+        <div class="star"> <img src="https://external-preview.redd.it/LQm3Hy7YkPzxOqtT_OGdVuSvlR9jCePzgLNX4XjPuiQ.jpg?width=640&crop=smart&auto=webp&s=b1f9257f965de3745740516c97f9452b4b65fe23" alt="Normal Type" style="width:20px; height:20px; position:fixed; bottom:230px; right:300px";> </div>
+          <div class="star2"><img src="https://external-preview.redd.it/LQm3Hy7YkPzxOqtT_OGdVuSvlR9jCePzgLNX4XjPuiQ.jpg?width=640&crop=smart&auto=webp&s=b1f9257f965de3745740516c97f9452b4b65fe23" alt="Normal Type" style="width:20px; height:20px; position:fixed; bottom:230px; right:280px";> </div>
+          <div class="star3"><img src="https://external-preview.redd.it/LQm3Hy7YkPzxOqtT_OGdVuSvlR9jCePzgLNX4XjPuiQ.jpg?width=640&crop=smart&auto=webp&s=b1f9257f965de3745740516c97f9452b4b65fe23" alt="Normal Type" style="width:20px; height:20px; position:fixed; bottom:230px; right:320px";> </div>
+     </div>
+       </div>
+     </div>
+     <div class="illustrator"> Ills. Atsuko Nishida</div> 
+  <div class="rare"> 131/185</div>
+    <div class="eating">It is not satisfied unless it eats over 500 pounds of food every day.<br> When it is done eating, it goes promptly to sleep.</div> 
+    
+  <div class="footer"> @2020 Pokemon / Nintendo / Creatures / GAME FREAK</div>
+ </div> 
+   
+</body>
+
+</html>
